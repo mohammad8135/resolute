@@ -1,4 +1,4 @@
-package com.example.resolute
+package com.novina.resolute
 
 import io.flutter.embedding.android.FlutterActivity
 
