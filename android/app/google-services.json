@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467219201860",
+    "project_id": "resolute-32f43",
+    "storage_bucket": "resolute-32f43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467219201860:android:669a4d0f76d33950146111",
+        "android_client_info": {
+          "package_name": "com.novina.resolute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqhuAVqjTuBJ9vFhc0ztOIVQ-IdMLxH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
